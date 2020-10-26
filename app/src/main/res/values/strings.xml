@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">Interfaces_de_usuario</string>
+    <string name="app_name">Interfaces de usuario</string>
     <string name="Texto1_ACT2">Esto es la segunda Activity!!!</string>
+    <string name="btn_go2SecondActivity">Segunda Actividad</string>
+    <string name="btnCambiarSaludo">Cambiar Saludo</string>
+    <string name="btnVOlver">Volver</string>
 </resources>
